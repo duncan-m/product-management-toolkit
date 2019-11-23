@@ -1,7 +1,7 @@
 # product-management-toolkit
 Toolkit for entrpreneurs, product managers and product leaders.
 
-It is a set of tools and resources that I reference when I get into new projects/products.
+It is a set of tools and resources that I reference when I get into new projects/products. They're not all useful all the time but they're pretty helpful a lot of the time. 
 
 ## Discovery tools
 - Product stakeholder map
